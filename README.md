@@ -40,7 +40,7 @@
 
 
 <details style="padding-bottom:0.5rem;">
-  <summary>GitHub Stats</summary>
+  <summary style="padding-bottom:0.5rem;">GitHub Stats</summary>
 
 ![wout-junius GitHub stats](https://github-readme-stats.vercel.app/api?username=wout-junius&theme=onedark)
 
@@ -48,7 +48,7 @@
 
 
 <details>
-  <summary>GitHub Repos</summary>
+  <summary style="padding-bottom:0.5rem;">GitHub Repos</summary>
 
 [![AI_Project_Routeplanner](https://github-readme-stats.vercel.app/api/pin/?username=wout-junius&repo=AI_Project_Routeplanner&theme=onedark)](https://github.com/wout-junius/AI_Project_Routeplanner)
 
@@ -58,10 +58,3 @@
 
 </details>
 
-<!--
-**wout-junius/wout-junius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
