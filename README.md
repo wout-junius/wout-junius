@@ -3,7 +3,7 @@
 
 ## I'm Student, Trainspotter and social gamer!!
 
-- 🔭 I am taking part in this new gaming company called (Untitled Gaming Studio)[Website]!
+- 🔭 I am taking part in this new gaming company called Untitled Gaming Studio
 - 🌱 I’m currently learning NestJS, Unity
 - 💬 Ask me about Trains, i dare you!
 - ⚡ Fun fact: Driven train before!
