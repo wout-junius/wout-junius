@@ -38,23 +38,9 @@
 
 <br />
 
-
-<details style="padding-bottom:0.5rem;">
-  <summary style="padding-bottom:0.5rem;">GitHub Stats</summary>
+## GitHub Stats
 
 ![wout-junius GitHub stats](https://github-readme-stats.vercel.app/api?username=wout-junius&theme=onedark)
 
-</details>
 
-
-<details>
-  <summary style="padding-bottom:0.5rem;">GitHub Repos</summary>
-
-[![AI_Project_Routeplanner](https://github-readme-stats.vercel.app/api/pin/?username=wout-junius&repo=AI_Project_Routeplanner&theme=onedark)](https://github.com/wout-junius/AI_Project_Routeplanner)
-
-[![GIP_2018](https://github-readme-stats.vercel.app/api/pin/?username=wout-junius&repo=GIP_2018&theme=onedark)](https://github.com/wout-junius/GIP_2018)
-
-[![BE_COVID_Discord_Bot](https://github-readme-stats.vercel.app/api/pin/?username=wout-junius&repo=BE_COVID_Discord_Bot&theme=onedark)](https://github.com/wout-junius/BE_COVID_Discord_Bot)
-
-</details>
 
