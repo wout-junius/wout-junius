@@ -12,14 +12,11 @@
 
 <br/>
 
-<a href="mailto:wout.junius@gmail.com"><img alt="wout junius | email" width="22px" src="https://icon-library.com/images/small-email-icon/small-email-icon-3.jpg" /> &nbsp;&nbsp; 
-wout.junius@gmail.com</a>
-<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wout.junius@gmail.com)
 
-<a href="https://www.linkedin.com/in/wout-junius-189aa3169/"> <img alt="wout junius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/wout-junius-189aa3169/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wout-junius-189aa3169/)
 
-
-<img alt="woutyboy3#1234 | Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" /> &nbsp;&nbsp; woutyboy3#1234
+![Discord](https://img.shields.io/badge/woutyboy3%231234-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <br />
 
