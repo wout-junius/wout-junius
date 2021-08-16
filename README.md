@@ -106,4 +106,5 @@
 
 </div>
 
-You are visitor: ![visitors](https://visitor-badge.glitch.me/badge?wout-junius=wout-junius)
+You are visitor: ![visitors](https://visitor-badge.glitch.me/badge?page_id=wout-junius)
+
