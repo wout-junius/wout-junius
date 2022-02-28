@@ -104,11 +104,11 @@
 ## **GitHub Stats**
 </br>
 
-![wout-junius GitHub stats](https://github-readme-stats.vercel.app/api?username=wout-junius&theme=onedark)
+![wout-junius GitHub stats](https://github-readme-stats.vercel.app/api?username=wout-junius&theme=onedark&show_icons=true)
 
 </div>
 
 You are visitor: 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wout-junius)
+![visitors](https://komarev.com/ghpvc/?username=wout-junius&style=for-the-badge)
 
