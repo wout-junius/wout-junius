@@ -1,5 +1,4 @@
-## Hi there, I'm wout Aka Woutyboy3
-
+<img alt="HTML5"  src="./images/Wout.png" />
 
 ### I'm Student, Trainspotter and social gamer!!
 
@@ -112,3 +111,4 @@ You are visitor:
 
 ![visitors](https://komarev.com/ghpvc/?username=wout-junius&style=for-the-badge)
 
+<img alt="HTML5"  src="./images/bottom.png" />
