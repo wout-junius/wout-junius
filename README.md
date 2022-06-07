@@ -2,8 +2,8 @@
 
 ### I'm Student, Trainspotter and social gamer!!
 
-- 🔭 I am doing an internship at [Altheria](https://altheria.com/)
-- 🌱 I’m currently learning NestJS, Unity
+- 🔭 Working on my Bachelor proof (International Train Database)
+- 🌱 I’m currently learning mastering React
 - 💬 Ask me about Trains, i dare you!
 - ⚡ Fun fact: Driven train before!
 
