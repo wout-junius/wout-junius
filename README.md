@@ -1,11 +1,14 @@
 <img alt="HTML5"  src="./images/Wout.png" />
 
-### I'm Student, Trainspotter and social gamer!!
+### Welcome to my profile!
 
-- 🔭 Working on my Bachelor proof (International Train Database)
-- 🌱 I’m currently learning mastering React
-- 💬 Ask me about Trains, i dare you!
-- ⚡ Fun fact: Driven train before!
+I am a Cloud engeneer @ [Altheria](https://altheria.com/)
+
+### Some fun facts about me! 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=BE5151&width=435&lines=%F0%9F%8C%90+I+love+webservers.;%E2%9D%A4%EF%B8%8F+My+favorite+languages+is+Typescript;%F0%9F%93%BA+Doctor+who+is+an+AMAZING+show!;%F0%9F%9A%82+I+am+a+trainspotter!;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+mastering+React;%F0%9F%92%AC+Ask+me+about+Trains%2C+i+dare+you!;%E2%9A%A1+Fun+fact%3A+Driven+a+train+before!)](https://git.io/typing-svg)
+
+<br/>
 
 ## Connect with me:
 
