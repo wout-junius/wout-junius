@@ -20,6 +20,8 @@ I am a Cloud engeneer @ [Altheria](https://altheria.com/)
 
 ![Discord](https://img.shields.io/badge/woutyboy3%231234-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+[![Static Badge](https://img.shields.io/badge/ICodeThis_profile-8961df?style=for-the-badge&logo=css3)](https://icodethis.com/wout_junius)
+
 <br />
 
 ## Languages and Tools:
