@@ -2,7 +2,7 @@
 
 ### Welcome to my profile!
 
-I am a Cloud engeneer @ [Altheria](https://altheria.com/)
+I am a Fullstack Engineer @ [Riaktr](https://riaktr.com/)
 
 ### Some fun facts about me! 
 
