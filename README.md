@@ -64,7 +64,7 @@ I am a Fullstack Engineer @ [Riaktr](https://riaktr.com/)
 
  <img alt=".NET"  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
- <img alt="VueJS"  src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+ <img alt="Angular"  src="https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white" />
  
  <img alt="React"  src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=333333" />
 
