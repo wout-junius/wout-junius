@@ -41,8 +41,6 @@ I am a Fullstack Engineer @ [Riaktr](https://riaktr.com/)
   
 <img alt="PHP"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  
-<img alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- 
 <img alt="C#"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  
 <img alt="C++"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -116,5 +114,11 @@ I am a Fullstack Engineer @ [Riaktr](https://riaktr.com/)
 You are visitor: 
 
 ![visitors](https://komarev.com/ghpvc/?username=wout-junius&style=for-the-badge)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wout-junius/wout-junius/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wout-junius/wout-junius/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wout-junius/wout-junius/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img alt="HTML5"  src="./images/bottom.png" />
